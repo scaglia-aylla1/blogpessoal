@@ -3,8 +3,6 @@ package com.generation.blogpessoal.model;
 import java.time.LocalDate;
 
 import org.hibernate.annotations.UpdateTimestamp;
-
-import jakarta.annotation.Generated;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
